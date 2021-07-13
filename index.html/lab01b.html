@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- tells the browser what html version I am going to use -->
+<html>
+  <head>
+    <title>code 201</title>
+    <!-- metadata can go here -->
+    <style>
+      li {color: green}
+    </style>
+    <style>
+    body { background-color: rgb(158, 245, 245);}
+    p {
+      font-size: x-large;
+    }
+    .name {
+      color: rgb(224, 127, 7);
+    }
+    .place {
+      color: blueviolet;
+    }
+    .fruits {
+      color: cornsilk;
+    }
+
+    .food {
+      color: rgb(240, 75, 75);
+    }
+    </style>
+    
+  </head>
+  <body>
+    <img style="width: 400px; border: 2px solid pink;" src="https://st3.depositphotos.com/6975596/19188/i/1600/depositphotos_191880316-stock-photo-back-to-school-lettering.jpg" alt="welcome back to school chalkboard">
+    <h1 style="color: rgb(17, 0, 255)">Welcome to class 201</h1>
+    <p class="name">what is your name?</p>
+    <p class="place">where are your from?</p>
+    <p class="fruits">what is your favorite fruit?</p>
+    <p class="food">what is your favorite dish?</p>
+    <ul>
+      <li>computer</li>
+      <li>note book</li>
+      <li>text books</li>
+    </ul>
+    <!-- The last thing in the body is the script, because this allows the rest of our page to load more quickly -->
+    <script>
+      console.log('hello world');
+      // prints the value within the parens to the console (browser in this case)
+      let userName= prompt('What is your name?');
+      console.log('the users name is: ', userName);
+      alert(' Welcome '  +  userName);
+
+      let place= prompt('Where are you From');
+      alert(' very nice place ' +userName)
+
+      let favoriteFruit= prompt('What is your favorite fruit?');
+      alert(' I like ' +favoriteFruit + ' as well')
+      let favoritefood= prompt('What is your favorite dish?');
+      alert(' Must Be Very Tasty !!!')      
+      
+    </script>
+  </body>
+</html> 
