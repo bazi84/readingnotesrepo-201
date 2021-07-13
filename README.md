@@ -1,5 +1,6 @@
 # readingnotesrepo-201
-reading notes
+
+reading notes-Class-01. [class 01 notes](class01.md)
 
 ## Lab01a - Reading Notes for Course 201
 
