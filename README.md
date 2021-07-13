@@ -1,6 +1,10 @@
 # readingnotesrepo-201
 
-reading notes-Class-01. [class 01 notes](class01.md)
+**Reading notes links**
+
+[Read 02 HTML CSS JS](Read02.md)
+
+ [class 01 notes](class01.md)
 
 ## Lab01a - Reading Notes for Course 201
 
