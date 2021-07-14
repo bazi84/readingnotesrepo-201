@@ -1,0 +1,29 @@
+body {
+  background-color: #CDF0EA;
+}
+h1 {
+   color: #185ADB;
+}
+
+h3 {
+   color: #ce3420;
+}
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%;       
+       
+}
+
+.contact-message {
+   width: 40%;
+   margin: 40px auto 60px;
+}
+
+.copyright {
+   color: #b4cccc;
+           font-size: 0.75rem;
+           padding: 20px 0;
