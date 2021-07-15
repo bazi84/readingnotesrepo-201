@@ -10,6 +10,9 @@
 
 ### Hello There!
 
+### Driver: Sarah Creager
+### Navigator: Abdulkadir Sheikh
+
 **This is Abdulkadir Sheikh**
 
 *I'm excited to learn all the subjects we will be covering in this course.*
