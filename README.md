@@ -2,6 +2,11 @@
 
 **Reading notes links**
 
+[Read 07 Table, Functions, Methods, and Objects](Read07.md)
+[Read 06 Object Literals & Doc objects model](Read06.md)
+[Read 05 HTML Images; CSS Color & Text](Read05.md)
+[Read 04 HTML Links, CSS Layout, JS Functions](Read04.md)
+[Read 03 HTML Lists, CSS Boxes, JS Control Flow](Read03.md)
 [Read 02 HTML CSS JS](Read02.md)
 
  [class 01 notes](class01.md)
