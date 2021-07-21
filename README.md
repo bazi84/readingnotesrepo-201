@@ -1,6 +1,7 @@
 # readingnotesrepo-201
 
 **Reading notes links**
+[Read 07 CSS lay outs](Read08.md)
 
 [Read 07 Table, Functions, Methods, and Objects](Read07.md)
 
