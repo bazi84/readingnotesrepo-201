@@ -1,4 +1,8 @@
 # Forms in html 
+
+
+## Today we leaned the structure of forms in html and how to listen and receive inputs using JS.
+
   - forms take in data from the user and do something with it.
   -  the default behavior of the form submission  is wierd - there is a prevent default() default of forms is to erase all of the content the user entered.
   -  all form data comes in as string data
